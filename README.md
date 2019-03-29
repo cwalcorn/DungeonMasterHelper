@@ -1,0 +1,2 @@
+"# DungeonMasterHelper"
+chumlie@gmail.com
